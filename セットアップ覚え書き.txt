@@ -10,5 +10,5 @@ Password：各自で設定
 http://tracpath.com/bootcamp/learning_tortoisegit.html
 
 リポジトリURL
-http://10.100.0.85:8081/MDSystem/MDSystemRenewal.git
+http://10.100.0.85:8081/MDSystem/MDSystemRenewal.gitss
 
