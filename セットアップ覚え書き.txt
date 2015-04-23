@@ -1,0 +1,14 @@
+ユーザ作成
+http://10.100.0.85:8081/
+右下部の「Sign UP」のところでユーザ作成
+Name：都地匡史　(姓名の間スペースなし)
+Username：Tsuji_Masashi　(姓名の間アンダーバー、最初大文字)
+Email：tsuji@trial-net.co.jp(Trialメールアドレス)
+Password：各自で設定
+
+クライアントインストール手順
+http://tracpath.com/bootcamp/learning_tortoisegit.html
+
+リポジトリURL
+http://10.100.0.85:8081/MDSystem/MDSystemRenewal.git
+
